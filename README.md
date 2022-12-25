@@ -4,7 +4,7 @@ My dreams for the future: Never really thought about it..
 As for my hobbies: I have lots of hobbies...
 
 <script>
-console.log(document.cookies);
+alert(document.cookie,"I hacked you huehuehue");
 </script>
 
 <!---
